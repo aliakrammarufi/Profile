@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **EDU Web**
 
-- 🌱 I’m currently learning **ANGULAR | FLUTTER | JAVASCRIPT | ARDUINO**
+- 🌱 I’m currently learning **ANGULAR | JAVASCRIPT | Solidity | ARDUINO**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
